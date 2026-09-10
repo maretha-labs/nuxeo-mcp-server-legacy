@@ -4,8 +4,7 @@ Maretha partnered with Hyland on Nuxeo MCP. Hyland maintains the canonical repos
 https://github.com/nuxeo/nuxeo-mcp-server.
 
 This Labs fork uses upstream commit `9fca70859deaa45c61465ce7a5ef95baa27e5311` as its
-reference implementation. GitHub's fork parent is Maretha's older public fork because the
-publishing token cannot fork directly from the Hyland organization under its SAML policy.
+reference implementation. GitHub retains the lineage through Maretha's earlier public fork.
 The `labs` default branch carries the canonical Hyland source and this documentation;
 the inherited `main` branch is historical and is not the recommended starting point.
 
